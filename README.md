@@ -1,7 +1,7 @@
 GetUnreadMail
 =============
 
-## H2 Python script to Fetch unread emails 
+#### Python script to Fetch unread emails 
 
 This is a simple python script to check and fetch unread email. 
 
