@@ -1,8 +1,8 @@
 GetUnreadMail
 =============
 
-Python script to Fetch unread emails \n
+H2 Python script to Fetch unread emails 
 
-This is a simple python script to check and fetch unread email. \n
-Currently search for INBOX folder and check for unread messages using the 'UNSEEN' flag.\n
-Libraries used: imaplib,email\n
+This is a simple python script to check and fetch unread email. 
+Currently search for INBOX folder and check for unread messages using the 'UNSEEN' flag.
+Libraries used: imaplib,email.
