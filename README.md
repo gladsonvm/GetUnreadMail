@@ -1,9 +1,8 @@
 GetUnreadMail
 =============
 
-Python script to Fetch unread emails
+Python script to Fetch unread emails \n
 
-This is a simple python script to check and fetch unread email over an unencrypted connection. 
-To use it over an encrypted connection change IMAP4 to IMAP4_SSL.
-Currently search for INBOX folder and check for unread messages using the 'UNSEEN' flag.
-Libraries used: imaplib,email
+This is a simple python script to check and fetch unread email. \n
+Currently search for INBOX folder and check for unread messages using the 'UNSEEN' flag.\n
+Libraries used: imaplib,email\n
